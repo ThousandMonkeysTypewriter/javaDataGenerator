@@ -1,0 +1,181 @@
+[
+  {
+    "preposition": "БЕЗ",
+    "cases": [
+      "род"
+    ],
+    "negative": true
+  },
+  {
+    "preposition": "У",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ДО",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ОТ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "С",
+    "cases": [
+      "род",
+      "твор"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ОКОЛО",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ИЗ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ВОЗЛЕ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПОСЛЕ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ДЛЯ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ВОКРУГ",
+    "cases": [
+      "род"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "К",
+    "cases": [
+      "дат"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПО",
+    "cases": [
+      "дат"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "В",
+    "cases": [
+      "вин",
+      "пр"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ЗА",
+    "cases": [
+      "вин",
+      "твор"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "НА",
+    "cases": [
+      "вин",
+      "пр"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПРО",
+    "cases": [
+      "вин"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ЧЕРЕЗ",
+    "cases": [
+      "вин"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "НАД",
+    "cases": [
+      "твор"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПОД",
+    "cases": [
+      "твор"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПЕРЕД",
+    "cases": [
+      "твор"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "О",
+    "cases": [
+      "пр"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ОБ",
+    "cases": [
+      "пр"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ОБО",
+    "cases": [
+      "пр"
+    ],
+    "negative": false
+  },
+  {
+    "preposition": "ПРИ",
+    "cases": [
+      "пр"
+    ],
+    "negative": false
+  }
+]

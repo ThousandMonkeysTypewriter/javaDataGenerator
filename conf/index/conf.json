@@ -1,0 +1,12 @@
+{
+  "lang": "ru",
+  "shop_item_id": "string",
+  "filters": "multi",
+  "redirects": "0",
+  "regionalized": "1",
+  "hard_time_control": "1500",
+  "index_max": "300",
+  "weight_max": "100",
+  "use_mem_cache": "0",
+  "online_update": "0"
+}
