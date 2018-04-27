@@ -38,7 +38,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         </archive>
       </configuration>
     </plugin>
-<plugin>
+<!--<plugin>
   <artifactId>maven-assembly-plugin</artifactId>
   <configuration>
     <archive>
@@ -52,14 +52,14 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   </configuration>
   <executions>
     <execution>
-      <id>make-assembly</id> <!-- this is used for inheritance merges -->
-      <phase>package</phase> <!-- bind to the packaging phase -->
+      <id>make-assembly</id> 
+      <phase>package</phase> 
       <goals>
         <goal>single</goal>
       </goals>
     </execution>
   </executions>
-</plugin>
+</plugin>-->
   </plugins>
 </build>
 
